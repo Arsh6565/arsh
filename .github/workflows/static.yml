@@ -105,5 +105,4 @@ jobs:
           git config --global user.name "GitHub Actions"
           git add screenshot_*.png
           git commit -m "Add screenshot taken during Selenium test"
-          git push
-
+          git push
